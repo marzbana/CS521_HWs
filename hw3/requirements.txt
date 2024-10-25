@@ -1,0 +1,12 @@
+torch==2.3.0
+numpy
+matplotlib
+torchtext==0.18.0
+torchvision
+torchdata
+portalocker==2.8.2
+datasets
+torchvision 
+torchaudio
+scikit-learn
+tqdm
